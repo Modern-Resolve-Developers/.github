@@ -43,9 +43,9 @@ Our mission is to provide innovative, reliable, and scalable solutions that empo
    - Project Type: Web
 3. **Digital Resolve - Team Management System**
    - Description: Develop a system that can track all the internal team movement wether client development or internal.
-   - Technologies: React-Native Typescript, Python Django, PostgreSQL
+   - Technologies: React-Native Typescript, Next Typescript, Python Django, PostgreSQL
    - Status : Planned (Development not yet engaged)
-   - Project Type: Mobile App (Android & IOS)
+   - Project Type: Web, Mobile App (Android & IOS)
   
 ## Product Engineering Development Plans
 

@@ -1,6 +1,6 @@
 # Digital Resolve Organization
 
-![Digital Resolve Organization Logo](logo.png)
+![Digital Resolve Organization Logo](https://mdr-dev-stage-frontend.vercel.app/drlogo.png)
 
 Welcome to the official repository of Digital Resolve Organization! We are dedicated to developing cutting-edge systems and applications for our clients as well as internal use. This README file provides an overview of our organization, its goals, and guidelines for contributing to our projects.
 
@@ -16,28 +16,41 @@ Our mission is to provide innovative, reliable, and scalable solutions that empo
 
 ### Client Projects
 
-1. **Project A - E-Commerce Platform**
-   - Description: Building a feature-rich e-commerce platform that offers a seamless shopping experience for users.
-   - Technologies: React, Node.js, MongoDB, GraphQL
+1. **Abys Agrivet - Appointment System**
+   - Description: Building appointment system for abys agrivet to make the business process more efficient.
+   - Technologies: Next Typescript, .NET Core API, MSSQL
+   - Status: To be release
+   - Project Type: Web
 
-2. **Project B - Financial Analytics Dashboard**
-   - Description: Creating a dashboard for financial data analysis, catering to investment professionals.
-   - Technologies: Angular, Django, PostgreSQL, REST API
+2. **Burger Mania - Point Of Sales and Inventory System**
+   - Description: Creating a POS and Inventory System.
+   - Technologies: Vue JS, .NET Web API, MSSQL
+   - Status: Archived (No longer support the development) (Code Freeze)
+   - Project Type: Web
 
-### Internal Applications
+### Current & Future Internal Applications
 
-1. **Project X - Task Management App**
-   - Description: Developing an app to manage tasks, track progress, and improve team coordination.
-   - Technologies: Vue.js, Flask, MySQL
+1. **Digital Resolve Internal Web App - eCommerce and Multi-Systems (Archived)**
+   - Description: Creating a sytem eCommerce to post products dynamically.
+   - Technologies: Next TS, .NET Core, MSSQL
+   - Status: Archived (No longer support the development) (Code Freeze)
+   - Project Type : Web
 
-2. **Project Y - Document Collaboration Tool**
-   - Description: Designing a tool to collaboratively edit and share documents within the organization.
-   - Technologies: React Native, Express, MongoDB
+2. **Digital Resolve - UAM & Multi-systems controller**
+   - Description: Develop a web application to create users dynamically to connected systems for internal only. It is also focuses on controlling other systems content and software updates
+   - Technologies: Next Typescript, Python Django, PostgreSQL
+   - Status : Planned (Development not yet engaged)
+   - Project Type: Web
+3. **Digital Resolve - Team Management System**
+   - Description: Develop a system that can track all the internal team movement wether client development or internal.
+   - Technologies: React-Native Typescript, Python Django, PostgreSQL
+   - Status : Planned (Development not yet engaged)
+   - Project Type: Mobile App (Android & IOS)
+  
+## Product Engineering Development Plans
 
-## Getting Started
-
-To contribute to our projects, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DigitalResolveOrganization/repository-name.git
+1. **Ticketing System**
+   - Description: To build and deploy ticketing system that customer can use it under digital resolve's domain.
+   - Technologies: Next Typescript, Java Spring Boot, PostgreSQL
+   - Status : Planned (Development not yet engaged)
+   - Project Type: Web

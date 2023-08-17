@@ -30,10 +30,10 @@ Our mission is to provide innovative, reliable, and scalable solutions that empo
 
 ### Current & Future Internal Applications
 
-1. **Digital Resolve Internal Web App - eCommerce and Multi-Systems (Archived)**
+1. **Digital Resolve Internal Web App - eCommerce and Multi-Systems**
    - Description: Creating a sytem eCommerce to post products dynamically.
    - Technologies: Next TS, .NET Core, MSSQL
-   - Status: Archived (No longer support the development) (Code Freeze)
+   - Status: Open-source (Open for all)
    - Project Type : Web
 
 2. **Digital Resolve - UAM & Multi-systems controller**

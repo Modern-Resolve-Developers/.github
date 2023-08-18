@@ -54,3 +54,8 @@ Our mission is to provide innovative, reliable, and scalable solutions that empo
    - Technologies: Next Typescript, Java Spring Boot, PostgreSQL
    - Status : Planned (Development not yet engaged)
    - Project Type: Web
+2. **WorkWise - Productivity Web & Mobile Application**
+   - Description: To build and deploy productivity web & mobile app system that client can use for their team management with special feature payroll system inside admin or managers role.
+   - Technologies: Next Typescript & React-Native Typescript, Java Spring Boot, PostgreSQL
+   - Status: Planned (Development not yet engaged)
+   - Project Type: Web & Mobile App

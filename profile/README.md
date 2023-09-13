@@ -1,6 +1,6 @@
 # Digital Resolve Organization
 
-![Digital Resolve Organization Logo](https://mdr-dev-stage-frontend.vercel.app/drlogo.png)
+![Digital Resolve Organization Logo](https://firebasestorage.googleapis.com/v0/b/mdrv2-5ffb6.appspot.com/o/profiles%2Fdgr.png?alt=media&token=f42cd1ec-38a1-4bff-a0f9-eda0bf555f8b)
 
 Welcome to the official repository of Digital Resolve Organization! We are dedicated to developing cutting-edge systems and applications for our clients as well as internal use. This README file provides an overview of our organization, its goals, and guidelines for contributing to our projects.
 
@@ -27,6 +27,11 @@ Our mission is to provide innovative, reliable, and scalable solutions that empo
    - Technologies: Vue JS, .NET Web API, MSSQL
    - Status: Archived (No longer support the development) (Code Freeze)
    - Project Type: Web
+3. **STI College Calamba - MIS Multi-Integrated Monitoring & Ticketing System**
+   - Description: MIS Multi-Integrated Monitoring & Ticketing System.
+   - Technologies: Electron JS + Next Typescript, .NET Core API, MSSQL
+   - Status: Active
+   - Project Type: Cross-Platform Desktop Application with Cloud Integration
 
 ### Current & Future Internal Applications
 

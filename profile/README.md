@@ -35,18 +35,24 @@ Our mission is to provide innovative, reliable, and scalable solutions that empo
 
 ### Current & Future Internal Applications
 
-1. **Digital Resolve Internal Web App - eCommerce and Multi-Systems**
+1. **E-Learning Spark**
+   - Description: E-Learning Management System.
+   - Technologies: React TS, .NET Core, MSSQL
+   - Status: Ongoing
+   - Project Type : Web
+     
+2. **Digital Resolve Internal Web App - eCommerce and Multi-Systems**
    - Description: Creating a sytem eCommerce to post products dynamically.
    - Technologies: Next TS, .NET Core, MSSQL
-   - Status: Open-source (Open for all)
+   - Status: Archived
    - Project Type : Web
 
-2. **Digital Resolve - UAM & Multi-systems controller**
+3. **Digital Resolve - UAM & Multi-systems controller**
    - Description: Develop a web application to create users dynamically to connected systems for internal only. It is also focuses on controlling other systems content and software updates
    - Technologies: Next Typescript, Python Django, PostgreSQL
    - Status : Planned (Development not yet engaged)
    - Project Type: Web
-3. **Digital Resolve - Team Management System**
+4. **Digital Resolve - Team Management System**
    - Description: Develop a system that can track all the internal team movement wether client development or internal.
    - Technologies: React-Native Typescript, Next Typescript, Python Django, PostgreSQL
    - Status : Planned (Development not yet engaged)
